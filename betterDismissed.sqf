@@ -11,6 +11,7 @@
  * combat mode.
  *
  * Demo - https://www.youtube.com/watch?v=Ld79QWukwEs
+ * Latest version - https://github.com/darkChozo/arma-scripts/blob/master/betterDismissed.sqf
  *
  * betterDismissed is SP and MP-compatable.
  *
